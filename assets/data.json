@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "title": "Milk",
+      "imageLink": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?quality=90&resize=556,505",
+      "productPrice": 1.8,
+      "type": "Dairy"
+    },
+    {
+      "title": "Brownies",
+      "imageLink": "https://www.inspiredtaste.net/wp-content/uploads/2016/06/Brownies-Recipe-1-1200.jpg",
+      "productPrice": 6.4,
+      "type": "Dessert"
+    },
+    {
+      "title": "Oranges",
+      "imageLink": "https://www.quanta.org/orange/orange.jpg",
+      "productPrice": 2.9,
+      "type": "Fruit"
+    },
+    {
+      "title": "Bread",
+      "imageLink": "https://suebeehomemaker.com/wp-content/uploads/2021/10/sliced-french-bread.jpg",
+      "productPrice": 3.5,
+      "type": "Bakery"
+    },
+    {
+      "title": "Eggs",
+      "imageLink": "https://www.licious.in/blog/wp-content/uploads/2022/01/eggs-1-1024x1024.jpg",
+      "productPrice": 2.0,
+      "type": "Dairy"
+    },
+    {
+      "title": "Apples",
+      "imageLink": "https://www.applesfromny.com/wp-content/uploads/2020/05/20Ounce_NYAS-Apples2.png",
+      "productPrice": 1.5,
+      "type": "Fruit"
+    },
+    {
+      "title": "Bagels",
+      "imageLink": "https://cdn.loveandlemons.com/wp-content/uploads/2020/05/bagel-recipe.jpg",
+      "productPrice": 2.2,
+      "type": "Bakery"
+    },
+    {
+      "title": "Yogurt",
+      "imageLink": "https://www.stonyfield.com/wp-content/uploads/2023/02/YoBaby-Lifestyle-Images-70.png",
+      "productPrice": 1.9,
+      "type": "Dairy"
+    },
+    {
+      "title": "Ice Cream",
+      "imageLink": "https://i0.wp.com/www.onceuponachef.com/images/2011/07/Banana-Ice-Cream.jpg?resize=760%2C983&ssl=1",
+      "productPrice": 4.5,
+      "type": "Dessert"
+    },
+    {
+      "title": "Bananas",
+      "imageLink": "https://i5.walmartimages.com/seo/Fresh-Banana-Fruit-Each_5939a6fa-a0d6-431c-88c6-b4f21608e4be.f7cd0cc487761d74c69b7731493c1581.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "productPrice": 1.2,
+      "type": "Fruit"
+    },
+    {
+      "title": "Croissants",
+      "imageLink": "https://www.theflavorbender.com/wp-content/uploads/2020/05/French-Croissants-SM-2363.jpg",
+      "productPrice": 2.7,
+      "type": "Bakery"
+    },
+    {
+      "title": "Cheese",
+      "imageLink": "https://www.cheese.com/media/img/cheese/emmentaler_istock.jpg",
+      "productPrice": 3.8,
+      "type": "Dairy"
+    },
+    {
+      "title": "Cake",
+      "imageLink": "https://handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg",
+      "productPrice": 7.2,
+      "type": "Dessert"
+    },
+    {
+      "title": "Grapes",
+      "imageLink": "https://www.westfaliafruit.com/wp-content/uploads/2019/01/Table-Grapes.jpg",
+      "productPrice": 2.5,
+      "type": "Fruit"
+    },
+    {
+      "title": "Donuts",
+      "imageLink": "https://i.ytimg.com/vi/J252oda1N8s/maxresdefault.jpg",
+      "productPrice": 2.0,
+      "type": "Bakery"
+    },
+    {
+      "title": "Mozzarella",
+      "imageLink": "https://www.seriouseats.com/thmb/0LrG8tB4BkzQarr2fqrpykcaDBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__10__20151017-pies-vicky-wasik-2-6f491edb6065485a86d6af639a592298.jpg",
+      "productPrice": 4.2,
+      "type": "Dairy"
+    },
+    {
+      "title": "Pudding",
+      "imageLink": "https://hips.hearstapps.com/thepioneerwoman/wp-content/uploads/2016/04/how-to-make-chocolate-pudding-00a.jpg?crop=1xw:0.8426966292134831xh;center,top&resize=1200:*",
+      "productPrice": 3.5,
+      "type": "Dessert"
+    },
+    {
+      "title": "Pineapple",
+      "imageLink": "https://www.liveeatlearn.com/wp-content/uploads/2023/05/How-to-Cut-Pineapple-01.jpg",
+      "productPrice": 2.8,
+      "type": "Fruit"
+    },
+    {
+      "title": "Baguette",
+      "imageLink": "https://panamarbakery.com/public/Image/2021/3/12951_1baguettetradicionmasamadre280gcopia_Galeria.png",
+      "productPrice": 1.7,
+      "type": "Bakery"
+    },
+    {
+      "title": "Butter",
+      "imageLink": "https://cdn.britannica.com/27/122027-050-EAA86783/Butter.jpg",
+      "productPrice": 2.1,
+      "type": "Dairy"
+    },
+    {
+      "title": "Cupcakes",
+      "imageLink": "https://www.bhg.com/thmb/iL-5Q6gGjmXkxCKqEovughTLQAo=/3000x0/filters:no_upscale():strip_icc()/how-to-bake-how-to-make-cupcakes-hero-01-12c03f3eff374d569b0565bff7d9e597.jpg",
+      "productPrice": 4.0,
+      "type": "Dessert"
+    },
+    {
+      "title": "Watermelon",
+      "imageLink": "https://i5.walmartimages.com/asr/14487aaf-d86a-4b46-acaf-7621b90286bb.fb737768267fcdc95c33f355b730ad15.jpeg",
+      "productPrice": 3.0,
+      "type": "Fruit"
+    },
+    {
+      "title": "Custard",
+      "imageLink": "https://www.simplyrecipes.com/thmb/vMgZCJpsdrItFrZ0p1BnFbX1LdM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Vanilla-Custard-LEAD-6-e690fd10b8e641388482e3e1350536aa.jpg",
+      "productPrice": 3.7,
+      "type": "Dessert"
+    },
+    {
+      "title": "Strawberries",
+      "imageLink": "https://www.thermofisher.com/blog/food/wp-content/uploads/sites/5/2015/08/single_strawberry__isolated_on_a_white_background.jpg",
+      "productPrice": 2.3,
+      "type": "Fruit"
+    },
+    {
+      "title": "Pretzels",
+      "imageLink": "https://handletheheat.com/wp-content/uploads/2021/09/how-to-make-homemade-pretzels-SQUARE2.jpg",
+      "productPrice": 1.8,
+      "type": "Bakery"
+    },
+    {
+      "title": "Tiramisu",
+      "imageLink": "https://www.cookingclassy.com/wp-content/uploads/2022/08/tiramisu-17-500x500.jpg",
+      "productPrice": 6.0,
+      "type": "Dessert"
+    },
+    {
+      "title": "Blueberries",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-NXnhB1-P2nWkhtP3viFEnZPV4BVjIMrGXuHbs6L-k5Hybt9E9ag9vEpPuek5H8BviM&usqp=CAU",
+      "productPrice": 3.2,
+      "type": "Fruit"
+    }
+  ],
+  "productTypes": ["Dairy", "Dessert", "Fruit", "Bakery"],
+  "receipts": [
+    {
+      "title": "Good breakfast",
+      "imageLink":"https://simply-delicious-food.com/wp-content/uploads/2022/09/Breakfast-board28.jpg",
+      "ingredients": ["Milk", "Eggs", "Oranges", "Bagels"],
+      "ingredientsPrices" : [1.8, 2.0, 2.9, 2.2]
+    },
+    {
+      "title": "Fruit salad",
+      "imageLink":"https://hips.hearstapps.com/hmg-prod/images/pasta-salad-horizontal-jpg-1522265695.jpg?crop=0.6668xw:1xh;center,top&resize=1200:*",
+      "ingredients": ["Apples", "Oranges", "Grapes", "Pineapple"],
+      "ingredientsPrices" : [1.5, 2.9, 2.5, 2.8]
+    },
+    {
+      "title": "Two Formaggi Sandwich",
+      "imageLink":"https://somethingaboutsandwiches.com/wp-content/uploads/2022/05/4-cheese-grilled-cheese-500x500.jpg",
+      "ingredients": ["Baguette", "Mozzarella", "Cheese"],
+      "ingredientsPrices" : [1.7, 4.2, 3.8]
+    },
+    {
+      "title": "Tiramisu with strawberries",
+      "imageLink":"https://flouringkitchen.com/wp-content/uploads/2023/02/BW1A0566.jpg",
+      "ingredients": ["Tiramisu", "Strawberries"],
+      "ingredientsPrices" : [6.0, 2.3]
+    }
+  ]
+}
